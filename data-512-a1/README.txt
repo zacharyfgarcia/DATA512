@@ -30,11 +30,11 @@ en-wikipedia_traffic_200712-201809.csv
 		year - string year in which the month took pace
 		month - string month in which the counts were calculated
 		pagecount_all_views - int sum of all page counts as reported by pagecounts API
-    	pagecount_desktop_views - int page counts from desktop as reported by pagecounts API
-    	pagecount_mobile_views - int page counts from mobile as reported by pagecounts API
-    	pageview_all_views - int sum of all page views from user agents as reported by pageviews API
-    	pageview_desktop_views - int page views from desktop users as reported by pageviews API
-    	pageview_mobile_views - int page views from all mobile users as reported by pageviews API 
+    		pagecount_desktop_views - int page counts from desktop as reported by pagecounts API
+    		pagecount_mobile_views - int page counts from mobile as reported by pagecounts API
+    		pageview_all_views - int sum of all page views from user agents as reported by pageviews API
+    		pageview_desktop_views - int page views from desktop users as reported by pageviews API
+    		pageview_mobile_views - int page views from all mobile users as reported by pageviews API 
 	
 Final_Visualization.png
 	Image of final visualization of all English Wikipedia traffic counts
