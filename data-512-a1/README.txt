@@ -1,6 +1,6 @@
 This folder data-512-a1 contains all the files required for submission of assignment 1 in DATA 512. 
 The goal of assignment 1 was to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia 
-from January 1 2008 through August 30 2019.  Besides this README.txt, the files are as follows:
+where data is available: from December 1 2007 through August 30 2019.  Besides this README.txt, the files are as follows:
 
 hcds-a1-data-curation.ipynb
 	A Jupyter notebook that contains all commented code and walkthrough for reproducing all analysis done in this assignment. 
