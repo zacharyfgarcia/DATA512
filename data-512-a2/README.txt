@@ -35,6 +35,13 @@ wp_wpds_countries-no_match.csv - File that includes any incomplete rows in the w
 
 wp_wpds_politicians_by_country.csv - File that includes all complete rows in the in the world politician article quality dataset after data processing and merging. See Jupyter notebook for more information. 
 
+The above two wp_wpds_* CSV files have the following fields:
+  article_name - title of Wikipedia article about a world politician
+  country - country the politician is from
+  revision_id - lookup ID for wikipedia article
+  article_quality - most likely quality of article as predicted by ORES API
+  population - population of the country the politician is from
+ 
 README.txt - This readme.
 
 LICENSE: This assignment code is released under an MIT license specified in the included LICENSE file. 
