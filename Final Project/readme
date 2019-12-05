@@ -9,13 +9,18 @@ Abstract:
 
 Included Files:
 
-  Final Project Report.ipynb is a Juypter notebook that blah 
-
-  Images is 
+  Final Project Report.ipynb is a Juypter notebook that
 
   parking_sampled_init.csv.zip is a zipped data file that contains all parking transactions used in the analysis.
   It should be unzipped before running the code in the Results section of the notebook. A more detailed description
-  of the data and its attributes can be found below
+  of the data and its attributes can be found below.
+  
+  Ballard.png, GreenLake.png, and UptownTriangle.png are image files that feature screenshots taken from Google Maps
+  of the emptiest blocks in each named parking area. These files are embedded in the Jupyter Notebook.
+  
+  Seattle Hourly.png, Commercial Core Hourly.png, Capitol Hill Hourly.png, and Ballard Locks Hourly.png are image files
+  of figures produced in the Jupyter notebook for occupancy calculated by hour of day and day of week in various
+  parking areas. 
 
   LICENSE is a MIT license for all code contained in the Jupyter Notebook. 
 
