@@ -1,21 +1,27 @@
+DATA 512 Final Report
+Zachary Garcia
+Last updated 12/9/19
 
 
 Abstract:
 
 
 
+Included Files:
+
+  Final Project Report.ipynb is a Juypter notebook that blah 
+
+  Images is 
+
+  Data File is 
+
+  LICENSE is a MIT license for all code contained in the Jupyter Notebook. 
 
 
-Files:
-
-Final Project Report.ipynb: 
-
-Images: 
-
-Data File: 
-
-LICENSE is a MIT license for all code contained in the Jupyter Notebook. 
-
+Resources used:
+This analysis was prepared using Python 3.7.1 running in a Jupyter Notebook environment.
+Documentation for Python can be found here: https://docs.python.org/3.7/
+Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/
 
 Data licenses/Sources: 
 
