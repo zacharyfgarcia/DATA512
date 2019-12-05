@@ -13,10 +13,26 @@ Included Files:
 
   Images is 
 
-  Data File is 
+  parking_sampled_init.csv.zip is a zipped data file that contains all parking transactions used in the analysis.
+  It should be unzipped before running the code in the Results section of the notebook. A more detailed description
+  of the data and its attributes can be found below
 
   LICENSE is a MIT license for all code contained in the Jupyter Notebook. 
 
+Data Attributes (parking_sampled_init.csv):
+
+OccupancyDateTime: Time parking transaction took place
+PaidOccupancy: Number of paid transactions on the blockface live at the time
+BlockfaceName: Street block being parked on
+SideOfStreet: Cardinal direction indicating which side of the block being parked on
+SourceElementKey: Unique ID for city street segment
+ParkingTimeLimitCategory: Time limit of parking in minutes
+ParkingSpaceCount: How many parking spaces the blockface holds
+PaidParkingArea: Defined parking area the block is in, effectively the neighborhood
+PaidParkingSubArea: Sub parking area the block is in, effectively subneighborhood
+PaidParkingRate: Deprecated
+ParkingCategory: Paid or Restricted Parking Zone
+Location: Lat-long of parking location
 
 Resources used:
 This analysis was prepared using Python 3.7.1 running in a Jupyter Notebook environment.
