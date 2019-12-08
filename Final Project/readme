@@ -1,15 +1,18 @@
-DATA 512 Final Report
+DATA 512 Final Project
 Zachary Garcia
-Last updated 12/9/19
-
+Last updated 12/8/19
 
 Abstract:
-
-
+  This repository is assembled to contain all materials and code documenting my Final Project in DATA 512 in the MSDS program
+  at the University of Washington. The high-level goal of this assigment was to find a publicly available and properly licensed
+  data set and to pursue a research question into it. My high-level goal was to investigate paid parking in Seattle in order to 
+  make recommendations regarding the easiest way to park as an individual in the city.  More information and process 
+  can be found in the included Jupyter Notebook Final Project Report.ipynb. 
 
 Included Files:
 
-  Final Project Report.ipynb is a Juypter notebook that
+  Final Project Report.ipynb is a Juypter notebook that includes all writing and code needed to follow (and reproduce) my
+  Final Project analysis. 
 
   parking_sampled_init.csv.zip is a zipped data file that contains all parking transactions used in the analysis.
   It should be unzipped before running the code in the Results section of the notebook. A more detailed description
@@ -39,11 +42,22 @@ PaidParkingRate: Deprecated
 ParkingCategory: Paid or Restricted Parking Zone
 Location: Lat-long of parking location
 
-Resources used:
+The included dataset is in the public domain as published by the Seattle Department of Transportation. 
+Source link is http://www.seattle.gov/transportation/projects-and-programs/programs/parking-program/maps-and-data
+
+Screenshots taken from Google Maps are approved by Google Maps Terms of Use and additional permissions. 
+Terms of Use: https://maps.google.com/help/terms_maps/
+Permissions: https://www.google.com/permissions/geoguidelines/
+
+Other resources used:
 This analysis was prepared using Python 3.7.1 running in a Jupyter Notebook environment.
 Documentation for Python can be found here: https://docs.python.org/3.7/
 Documentation for Jupyter Notebook can be found here: http://jupyter-notebook.readthedocs.io/en/latest/
 
-Data licenses/Sources: 
+Non built-in Python packages used are below:
+
+NumPy: https://numpy.org/license.html
+Pandas: https://pandas.pydata.org/pandas-docs/stable/
+Matplotlib: https://pypi.org/project/matplotlib/
 
 DATA 512 course wiki: https://wiki.communitydata.science/Human_Centered_Data_Science_(Fall_2019)
